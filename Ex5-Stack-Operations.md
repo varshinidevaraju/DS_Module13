@@ -15,7 +15,7 @@ To write a C function to perform push and pop operation of the stack in the infi
 Program to find and display the priority of the operator in the given Postfix expression
 Developed by: Varshini D
 RegisterNumber: 212223230234
-```
+
 char stack[100];
 int top = -1;
 void push(char x)
@@ -30,7 +30,7 @@ char pop()
  return stack[top--];
 }
 
-
+```
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/59341887-7ef7-424d-a6a0-f5ba67277f5d)
