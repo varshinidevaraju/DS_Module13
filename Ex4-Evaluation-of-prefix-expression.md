@@ -16,11 +16,11 @@ the loop ends.
 8. End
 ## Program:
 
-/*
+```
 Program to evaluate the given prefix expression
 Developed by: Varshini D
 RegisterNumber: 212223230234
-*/
+
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>
@@ -65,7 +65,7 @@ push(p[i]-48);
 printf("%d",pop());
 }
 
-
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/26c180b4-5fd8-4867-812f-53d795d0d9c5)
