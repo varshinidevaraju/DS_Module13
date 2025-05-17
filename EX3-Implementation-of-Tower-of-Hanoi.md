@@ -14,11 +14,11 @@ To write a C program to implement Tower of Hanoi
 
 ## Program:
 
-/*
+```
 Program to implement Tower of Hanoi
-Developed by: Arshitha MS
-RegisterNumber:  212223240015
-*/
+Developed by: Varshini D
+RegisterNumber:  212223230234
+
 #include<stdio.h>
 void TOH(int n,char x,char y,char z)
 {
@@ -37,7 +37,7 @@ int main()
     scanf("%d", &n);
     TOH(n ,'A', 'B' , 'C');
 }
-
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/78c4bd36-94a8-4b60-a10e-eb26dda484e7)
 
